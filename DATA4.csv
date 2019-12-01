@@ -1,4 +1,4 @@
-이름,회차,분량,등급알파벳,등급,순위
+country,year,pop,continent,lifeExp,gdpPercap
 강다니엘,1,57,B,10,-23
 강다니엘,2,94,B,10,-23
 강다니엘,3,130,A,5,-12
